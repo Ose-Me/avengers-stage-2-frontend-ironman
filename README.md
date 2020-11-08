@@ -1,4 +1,4 @@
-# E-learning
+# avengers-stage-2-frontend-ironman
 Click [HERE](https://www.figma.com/file/hIdTALTgATjxyfZWVFn7Qk/SideHustle-Group-1-major-task-5?node-id=0%3A1) to check out the design!
 
 ## INSTRUCTIONS
